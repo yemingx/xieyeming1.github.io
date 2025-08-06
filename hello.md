@@ -12,6 +12,14 @@
 | application | aging | aging+organ_aging+MRD |
 
 
+Boarder scope:
+- 跨部门协作沟通，让colleague理解项目本身的价值和意义，任务拆解，找到卡点安排优先级
+- 长期数据管理，生信标准化平台
+- LDT（携带者hic，poreC）
+- 整合到抗衰老等药物研发管线
+- 药物新靶点预测
+
+
 
 ### 做cfDNA甲基化和SNP分析的时候，什么场景下，比如MRD，要考虑造血克隆污染？如何去除噪音，一定需要同时测一管血离心后的血浆cfDNA和白细胞吗?
 
