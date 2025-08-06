@@ -6,7 +6,7 @@
 | seq | WGBS/target | target BS |
 | QC | WBC/ctDNA | WBC filter + ctDNA marker |
 | features | cpg/snp/nucleosome | CpG+SNP+nucleosome |
-| phenodata | disease/age/lifestyle/sex | AI agent recording |
+| cohort_EDA | disease/age/lifestyle/sex | AI agent recording |
 | analysis | Elastic Net Regression | multimodal |
 | benchmark | cor/MAE | age cor + MAE + organ age |
 | application | aging | aging+organ_aging+MRD |
