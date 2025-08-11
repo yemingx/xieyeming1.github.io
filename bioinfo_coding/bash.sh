@@ -730,3 +730,4 @@ zcat gencode.vM19.annotation.gtf.gz | awk 'OFS="\t" {if ($3=="transcript") {if (
 
 ### seqtk pipe
 ${seqtk} trimfq -b 150 ${fq_dir}/V350187741_L01_read_2.fq.gz | ${seqtk} trimfq -e 2 -> V350187741_L01.barcode.fq
+
