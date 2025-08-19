@@ -1,13 +1,7 @@
----
-title: "violin_2compare_test"
-author: "yemingxie@gmail.com"
-date: "Mon Aug 18 18:15:35 CST 2025"
-output: 
-  html_document:
-    keep_md: true
-    self_contained: true
----
-
+violin_2compare_test
+================
+<yemingxie@gmail.com>
+Mon Aug 18 18:15:35 CST 2025
 
 ``` r
 knitr::opts_chunk$set(echo = TRUE)
@@ -18,22 +12,16 @@ library(httpgd)
 library(dplyr)
 ```
 
-```
-## 
-## Attaching package: 'dplyr'
-```
+    ## 
+    ## Attaching package: 'dplyr'
 
-```
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-```
+    ## The following objects are masked from 'package:stats':
+    ## 
+    ##     filter, lag
 
-```
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
-```
+    ## The following objects are masked from 'package:base':
+    ## 
+    ##     intersect, setdiff, setequal, union
 
 ``` r
 library(tidyr)
@@ -64,15 +52,13 @@ wilcox_result <- wilcox.test(in_file_2$V4, in_file_1$V4,
 head(all_data)
 ```
 
-```
-##     V1    V2    V3       V4                      subgroup feature_val
-## 1 chr1 10003 10582 78.60654 hek_atac_non_overlap_pval.bdg    6.296577
-## 2 chr1 15593 15698  7.47299 hek_atac_non_overlap_pval.bdg    2.901686
-## 3 chr1 32572 32667  4.47711 hek_atac_non_overlap_pval.bdg    2.162568
-## 4 chr1 34721 34900  5.11197 hek_atac_non_overlap_pval.bdg    2.353879
-## 5 chr1 79262 79336  3.60646 hek_atac_non_overlap_pval.bdg    1.850583
-## 6 chr1 91365 91519  9.68647 hek_atac_non_overlap_pval.bdg    3.275971
-```
+    ##     V1    V2    V3       V4                      subgroup feature_val
+    ## 1 chr1 10003 10582 78.60654 hek_atac_non_overlap_pval.bdg    6.296577
+    ## 2 chr1 15593 15698  7.47299 hek_atac_non_overlap_pval.bdg    2.901686
+    ## 3 chr1 32572 32667  4.47711 hek_atac_non_overlap_pval.bdg    2.162568
+    ## 4 chr1 34721 34900  5.11197 hek_atac_non_overlap_pval.bdg    2.353879
+    ## 5 chr1 79262 79336  3.60646 hek_atac_non_overlap_pval.bdg    1.850583
+    ## 6 chr1 91365 91519  9.68647 hek_atac_non_overlap_pval.bdg    3.275971
 
 ``` r
 summ <- all_data %>%
@@ -83,21 +69,17 @@ summ <- all_data %>%
 summ
 ```
 
-```
-## # A tibble: 2 × 5
-##   subgroup                          n  mean max_val    sd
-##   <chr>                         <int> <dbl>   <dbl> <dbl>
-## 1 hek_atac_non_overlap_pval.bdg 58400  2.73    11.5  1.06
-## 2 hek_atac_overlap_pval.bdg     33013  3.71    11.6  1.40
-```
+    ## # A tibble: 2 × 5
+    ##   subgroup                          n  mean max_val    sd
+    ##   <chr>                         <int> <dbl>   <dbl> <dbl>
+    ## 1 hek_atac_non_overlap_pval.bdg 58400  2.73    11.5  1.06
+    ## 2 hek_atac_overlap_pval.bdg     33013  3.71    11.6  1.40
 
 ``` r
 levels(factor(all_data$subgroup))
 ```
 
-```
-## [1] "hek_atac_non_overlap_pval.bdg" "hek_atac_overlap_pval.bdg"
-```
+    ## [1] "hek_atac_non_overlap_pval.bdg" "hek_atac_overlap_pval.bdg"
 
 ``` r
 # pdf(paste0(plot_title,'.pdf'))
@@ -120,7 +102,7 @@ ggplot(all_data, aes(x=subgroup, y=feature_val, fill=subgroup)) +
     legend.position="top")
 ```
 
-![](violin_2compare_test_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
+![](violin_2compare_test_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
 ``` r
 # dev.off()
