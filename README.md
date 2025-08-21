@@ -3,7 +3,7 @@
 ### achieved
 #### email_fetch (测序下机邮件信息抓取)
 https://github.com/yemingx/xieyeming1.github.io/tree/master/llm_app/email_fetch
-### wechatPub_fetch （微信公众号文章信息抓取）
+#### wechatPub_fetch （微信公众号文章信息抓取）
 https://github.com/yemingx/xieyeming1.github.io/tree/master/llm_app/wechatPub
 
 ### ongoing
