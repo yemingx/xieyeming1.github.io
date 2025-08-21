@@ -7,7 +7,13 @@ git add --all .
 git commit -m "update"
 # Push to remote
 git push origin master
+git push origin main
 
+# local sync repo
+git clone git@github.com:genometube/MICC-seq.git
+# local update repo
+git fetch --all
+git pull origin main
 ############### rmd ##############
 ---
 author: "yemingxie@gmail.com"
