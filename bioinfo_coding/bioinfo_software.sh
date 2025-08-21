@@ -10,18 +10,27 @@ git push origin master
 
 ############### rmd ##############
 ---
-title: " "
-author: " "
-date: "2025-03-07"
-output: html_document
+author: "yemingxie@gmail.com"
+date: "`r format(Sys.time(), '%a %b %d %H:%M:%S %Y')`"
+output: 
+  github_document:
+    html_preview: false
+    fig_width: 7
+    fig_height: 5
+    dev: "png"
 ---
 
 ```{r}
 knitr::opts_chunk$set(echo = TRUE)
 
+
 ```
 
-Rscript -e "rmarkdown::render('.Rmd')"
+plot_name=RPII_enhancer_micc_violin
+outdir=/research/xieyeming1/proj_2025/MICC_paper/genometube/MICC-seq/figs/enhancer_Micc_noMicc/
+source /mnt/software/anaconda3/bin/activate R4_4
+Rscript -e "rmarkdown::render('${plot_name}.Rmd', output_dir = '${outdir}')"
+sed -i "s|${outdir}||g" ${outdir}${plot_name}.md
 
 ############## hpc ##############
 ### bio format
