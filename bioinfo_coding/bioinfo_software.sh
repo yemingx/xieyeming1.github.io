@@ -9,11 +9,20 @@ git commit -m "update"
 git push origin master
 git push origin main
 
-# local sync repo
+# local sync repo by command line
 git clone git@github.com:genometube/MICC-seq.git
 # local update repo
 git fetch --all
 git pull origin main
+
+# local sync repo by github desktop app
+click "file", then click "clone repository"
+username/repository: genometube/MICC-seq
+local path: C:\Users\xieyeming1\Documents\GitHub
+click "Clone"
+# local sync repo by github desktop app
+click "Fetch origin"
+click "pull origin"
 ############### rmd ##############
 ---
 author: "yemingxie@gmail.com"

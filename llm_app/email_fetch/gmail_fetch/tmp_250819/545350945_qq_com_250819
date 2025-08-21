@@ -1,0 +1,213 @@
+545350945@qq.com	Fwd: 【下机数据交付】【极致】ofp250423谭陈拟南芥Chip-seq第12期任务单	Tue, 19 Aug 2025 14:56:39 +0800	
+L03的数据是瓮博项目的数据。
+
+一、评估不同体积的捕获效果。最后一列是无酶绑定的数据。index信息如下，序列见附件表格：
+蛋白
+200pg
+20pg
+2pg
+200fg
+20fg
+2fg
+0
+无酶
+IL10-m5 10ul
+41
+42
+43
+44
+45
+46
+47
+48
+IL10-m5 40ul
+49
+50
+51
+52
+53
+54
+55
+56
+IL10-m5 200ul
+57
+58
+59
+60
+61
+62
+63
+64
+IL4-m7 200ul
+65
+66
+67
+68
+69
+70
+71
+72
+
+indexA-IL10-m5序列：AGTGGTACATCGCAGAGTACCTCACTGGATAACATGGTTGCCCAGGGCAATGTTCTGCCTGTTCTGTACGGGGAAATGCGCGTGGGGTCACGCGTGGTTTCTCAGGAGATCAGCACGGCAGACGAAGGGGACGGTGGTCAGGTTGTGGTGATTGGTCGCTGATGCAAAATGTTTTATGTGAAACCGCCTGCGGGCGGTTTTGTCATTTATGGAGCGTGAGGAATGGGTAAAGGAAGCAGTAAGGGGCATACCCCGCGCGAAGCGAAGGACAACCTGAAGTCCACGCAGTTGCTGAGTGTGA
+
+indexA-IL4-m7序列，
+AGTGGTACATCGCAGAGTACATGAACGACGTGTTCCTGAAGCGCCTGACGGCCCCCACCATTACCAGCGGCGGCAATCCTCCGGCCTTTTCCCTGACACCGGACGGAAAGCTGACCGCTAAAAATGCGGATATCAGTGGCAGTGTGAATGCGAACTCCGGGACGCTCAGTAATGTGACGATAGCTGAAAACTGTACGATAAACGGTACGCTGAGGGCGGAAAAAATCGTCGGGGACATTGTAAAGGCGGCGAGCGCGGCTTTTCCGCGCCAGCGTGAAAGCAGTGTGGACTGGCCGTCAGGTACCCGTACTGTCACCGTGACCGATGACCAT
+
+indexB-m8序列：
+AGTGGTACATCGCAGAGTACTCTCTCCCATATTGCAGTCGCGGCACGATGGAACTAAATTAATAGGCATCACCGAAAATTCAGGATAATGTGCAATAGGAAGAAAATGATCTATATTTTTTGTCTGTCCTATATCACCACAAAATGGACATTTTTCACCTGATGAAACAAGCATGTCATCGTAATATGTTCTAGCGGGTTTGTTTTTATCTCGGAGATTATTTTCATAAAGCTTTTCTAATTTAACCTTTGTCAGGTTACCAACTACTAAGGTTGTAGGCTCAAGAGGGTGTGTCCTGTCGTAGG
+
+C-lambda258（这批数据的C不确定是不是这个序列，先比对一下）：
+CTCCAGCCAGGAACTATTGAGTACGAACGCCATCGACTTACGCGTGCGCAGGCCGACGCACAGGAACTGAAGAATGCCAGAGACTCCGCTGAAGTGGTGGAAACCGCATTCTGTACTTTCGTGCTGTCGCGGATCGCAGGTGAAATTGCCAGTATTCTCGACGGGCTCCCCCTGTCGGTGCAGCGGCGTTTTCCGGAACTGGAAAACCGACATGTTGATTTCCTGAAACGGGATATCATCAAAGCCATGAACAAAGCAG
+
+这批数据目的：1、比较聚集和分散的效果，2、比较不同量blocker效果。
+IL4
+20ng
+2ng
+200pg
+20pg
+2pg
+200fg
+20fg
+0
+30ng blocker+Clustering
+73
+74
+75
+76
+77
+78
+79
+80
+30ng blocker+Dispersion
+81
+82
+83
+84
+85
+86
+87
+88
+150ng blocker+Dispersion
+89
+90
+91
+92
+93
+94
+95
+96
+
+indexA-m3序列：
+AGTGGTACATCGCAGAGTACTGGTGGTTCCCCTCATCAGTGGCTCTATCTGAACGCGCTCTCCACTGCTTAATGACATTCCTTTCCCGATTAAAAAATCTGTCAGATCGGATGTGGTCGGCCCGAAAACAGTTCTGGCAAAACCAATGGTGTCGCCTTCAACAAACAAAAAAGATGGGAATCCCAATGATTCGTCATCTGCGAGGCTGTTCTTAATATCTTCAACTGAAGCTTTAGAGCGATTTATCTTCTGAACCAGACTCTTGTCA
+
+indexB-m4序列：
+AGTGGTACATCGCAGAGTACTGAATGAATGCACCCGTGCGGAGCAGTCGGCCAGCGTGGTGCTCTGGGAAATCGACCTGACAGAGGTCGGTGGAGAACGTTATTTTTTCTGTAATGAGCAGAACGAAAAAGGTGAGCCGGTCACCTGGCAGGGGCGACAGTATCAGCCGTATCCCATTCAGGGGAGCGGTTTTGAACTGAATGGCAAAGGCACCAGTACGCGCCCCACGCTGACGGTTTCTAACCTGTACGGTATGGTCACCGGGATGGCGGAAGATATGCAGAGTCTGGTCGG
+
+C-m7序列：
+AGTGGTACATCGCAGAGTACATGAACGACGTGTTCCTGAAGCGCCTGACGGCCCCCACCATTACCAGCGGCGGCAATCCTCCGGCCTTTTCCCTGACACCGGACGGAAAGCTGACCGCTAAAAATGCGGATATCAGTGGCAGTGTGAATGCGAACTCCGGGACGCTCAGTAATGTGACGATAGCTGAAAACTGTACGATAAACGGTACGCTGAGGGCGGAAAAAATCGTCGGGGACATTGTAAAGGCGGCGAGCGCGGCTTTTCCGCGCCAGCGTGAAAGCAGTGTGGACTGGCCGTCAGGTACCCGTACTGTCACCGTGACCGATGACCAT
+￼
+
+
+> 下面是被转发的邮件：
+> 
+> 发件人: 周荣芳(Rongfang Zhou) <zhourongfang@bgi.com>
+> 主题: 【下机数据交付】【极致】ofp250423谭陈拟南芥Chip-seq第12期任务单
+> 日期: 2025年8月18日 GMT+8 16:15:22
+> 收件人: 陈智超(Zhichao Chen) <chenzhichao@bgi.com>, 谭陈(Chen Tan) <tanchen@bgi.com>, 罗梦1(Meng Luo) <luomeng1@bgi.com>, 王娟(Juan Wang) <wangjn@bgi.com>
+> 抄送: 周荣芳(Rongfang Zhou) <zhourongfang@bgi.com>
+> 
+> 老师，
+> 您好！
+> 【极致】ofp250423谭陈拟南芥Chip-seq第12期任务单，数据已经交付，请知悉！
+> 因科服存储会定期清理历史项目数据，请及时备份保存下机数据，谢谢！
+>  
+> 祝好！
+> 荣芳
+> 
+> 
+> 
+> -----原始邮件-----
+> 发件人: "P_HOM" <P_HOM@bgi.com <mailto:P_HOM@bgi.com>>
+> 发送时间: 2025-08-18 10:51:03
+> 收件人: "ruanfengying" <ruanfengying@genomics.cn <mailto:ruanfengying@genomics.cn>>,"yanglv" <yanglv@genomics.cn <mailto:yanglv@genomics.cn>>,"zhangnandi" <zhangnandi@genomics.cn <mailto:zhangnandi@genomics.cn>>,"tanchen" <tanchen@genomics.cn <mailto:tanchen@genomics.cn>>,"zhengyueyue" <zhengyueyue@genomics.cn <mailto:zhengyueyue@genomics.cn>>,"zhangchen3" <zhangchen3@genomics.cn <mailto:zhangchen3@genomics.cn>>,"zhourongfang" <zhourongfang@genomics.cn <mailto:zhourongfang@genomics.cn>>,"coco.hu <http://coco.hu/>" <coco.hu@genomics.cn <mailto:coco.hu@genomics.cn>>,"tubimeng" <tubimeng@bgitechsolutions.com <mailto:tubimeng@bgitechsolutions.com>>,"zhiwei.Qiu" <zhiwei.Qiu@genomics.cn <mailto:zhiwei.Qiu@genomics.cn>>,"chenzhining" <chenzhining@genomics.cn <mailto:chenzhining@genomics.cn>>,"sunhua" <sunhua@genomics.cn <mailto:sunhua@genomics.cn>>
+> 抄送: "cp_DP" <cp_DP@genomics.cn <mailto:cp_DP@genomics.cn>>,"BGITS_NGS_WHga" <BGITS_NGS_WHga@genomics.cn <mailto:BGITS_NGS_WHga@genomics.cn>>,"zhouying2" <zhouying2@genomics.cn <mailto:zhouying2@genomics.cn>>,"yanpan" <yanpan@bgitechsolutions.com <mailto:yanpan@bgitechsolutions.com>>,"liuliling" <liuliling@genomics.cn <mailto:liuliling@genomics.cn>>,"洪利(Li Hong)" <hongli@bgi.com <mailto:hongli@bgi.com>>,"涂苗(Tu Miao)" <tumiao@bgi.com <mailto:tumiao@bgi.com>>,"王丽纳(Lina Wang)" <wanglina@bgi.com <mailto:wanglina@bgi.com>>,"刘红笑(Hongxiao Liu)" <liuhongxiao@bgi.com <mailto:liuhongxiao@bgi.com>>
+> 主题: 【归档完成】武汉 MGISEQ-2000 250814_WH028_V350350908 finished
+> 
+> 各位老师好：
+> 通知邮件，请勿回复，有问题请发信至数据处理组邮箱 cp_DP@genomics.cn <mailto:cp_DP@genomics.cn>，数据下机后2-3周将删除测序仪所产生的原始数据文件，只保留备份fq文件。
+> 250814_WH028_V350350908 Length 100;100 完成
+> 质控报告如下：
+> L01 http://minio.it.bgi.com:80/homeward-public/20250814_M028_V350350908/SQCS/WHB5EXONPEP00100888/20250814_M028_V350350908_L01_WHB5EXONPEP00100888/report.htm <http://minio.it.bgi.com/homeward-public/20250814_M028_V350350908/SQCS/WHB5EXONPEP00100888/20250814_M028_V350350908_L01_WHB5EXONPEP00100888/report.htm>
+> L02 http://minio.it.bgi.com:80/homeward-public/20250814_M028_V350350908/SQCS/WHB5EXONPEP00100816/20250814_M028_V350350908_L02_WHB5EXONPEP00100816/report.htm <http://minio.it.bgi.com/homeward-public/20250814_M028_V350350908/SQCS/WHB5EXONPEP00100816/20250814_M028_V350350908_L02_WHB5EXONPEP00100816/report.htm>
+> L03 http://minio.it.bgi.com:80/homeward-public/20250814_M028_V350350908/SQCS/WHB5EXONPEP00100810/20250814_M028_V350350908_L03_WHB5EXONPEP00100810/report.htm <http://minio.it.bgi.com/homeward-public/20250814_M028_V350350908/SQCS/WHB5EXONPEP00100810/20250814_M028_V350350908_L03_WHB5EXONPEP00100810/report.htm>
+> L04 http://minio.it.bgi.com:80/homeward-public/20250814_M028_V350350908/SQCS/WHB5EXONPEP00100899/20250814_M028_V350350908_L04_WHB5EXONPEP00100899/report.htm <http://minio.it.bgi.com/homeward-public/20250814_M028_V350350908/SQCS/WHB5EXONPEP00100899/20250814_M028_V350350908_L04_WHB5EXONPEP00100899/report.htm>
+> 数据路径：武汉 /jdfswh5/solexa/homeward_A/homeward143A 下根据 PROJECT 查找
+> 250814_WH028_V350350908
+> MAIL: ruanfengying@genomics.cn <mailto:ruanfengying@genomics.cn>,yanglv@genomics.cn <mailto:yanglv@genomics.cn>,zhangnandi@genomics.cn <mailto:zhangnandi@genomics.cn>,tanchen@genomics.cn <mailto:tanchen@genomics.cn>,zhengyueyue@genomics.cn <mailto:zhengyueyue@genomics.cn>,zhangchen3@genomics.cn <mailto:zhangchen3@genomics.cn>,zhourongfang@genomics.cn <mailto:zhourongfang@genomics.cn>,coco.hu@genomics.cn <mailto:coco.hu@genomics.cn>,tubimeng@bgitechsolutions.com <mailto:tubimeng@bgitechsolutions.com>,zhiwei.Qiu@genomics.cn <mailto:zhiwei.Qiu@genomics.cn>,chenzhining@genomics.cn <mailto:chenzhining@genomics.cn>,sunhua@genomics.cn <mailto:sunhua@genomics.cn>,
+> L01 WHB5EXONPEP00100888
+> PRJ F25A430001408_HOMhbrfC hbrf250731郑越月18个CutandRun测1lane人Chip-seq (18/18) 
+> 胡子乔coco.hu@genomics.cn <mailto:coco.hu@genomics.cn>、孙华sunhua@genomics.cn <mailto:sunhua@genomics.cn>、郑越月zhengyueyue@genomics.cn <mailto:zhengyueyue@genomics.cn>
+> IND	混合比	Reads	Bases	PCT	INDEXED_LIBRARY	PROJECT
+> 647	21	21.97M	4.39G	5.56%	WHRDHOMhbrfCAAEMAA-647	F25A430001408_HOMhbrfC
+> 648	21	24.07M	4.81G	6.09%	WHRDHOMhbrfCAAFMAA-648	F25A430001408_HOMhbrfC
+> 649	21	19.93M	3.99G	5.05%	WHRDHOMhbrfCAAGMAA-649	F25A430001408_HOMhbrfC
+> 650	21	11.30M	2.26G	2.86%	WHRDHOMhbrfCAAHMAA-650	F25A430001408_HOMhbrfC
+> 651	21	28.19M	5.64G	7.14%	WHRDHOMhbrfCAAIMAA-651	F25A430001408_HOMhbrfC
+> 652	21	20.89M	4.18G	5.29%	WHRDHOMhbrfCAAJMAA-652	F25A430001408_HOMhbrfC
+> 653	21	23.20M	4.64G	5.87%	WHRDHOMhbrfCAAKMAA-653	F25A430001408_HOMhbrfC
+> 654	21	16.84M	3.37G	4.26%	WHRDHOMhbrfCAALMAA-654	F25A430001408_HOMhbrfC
+> 655	21	11.10M	2.22G	2.81%	WHRDHOMhbrfCAAMMAA-655	F25A430001408_HOMhbrfC
+> 656	21	11.09M	2.22G	2.81%	WHRDHOMhbrfCAANMAA-656	F25A430001408_HOMhbrfC
+> 657	21	27.90M	5.58G	7.06%	WHRDHOMhbrfCAAOMAA-657	F25A430001408_HOMhbrfC
+> 658	21	15.01M	3.00G	3.80%	WHRDHOMhbrfCAAPMAA-658	F25A430001408_HOMhbrfC
+> 659	21	22.71M	4.54G	5.75%	WHRDHOMhbrfCAAQMAA-659	F25A430001408_HOMhbrfC
+> 660	21	28.85M	5.77G	7.30%	WHRDHOMhbrfCAARMAA-660	F25A430001408_HOMhbrfC
+> 661	21	31.38M	6.28G	7.94%	WHRDHOMhbrfCAASMAA-661	F25A430001408_HOMhbrfC
+> 662	21	23.17M	4.63G	5.86%	WHRDHOMhbrfCAATMAA-662	F25A430001408_HOMhbrfC
+> 663	21	20.90M	4.18G	5.29%	WHRDHOMhbrfCAAUMAA-663	F25A430001408_HOMhbrfC
+> 664	21	22.76M	4.55G	5.76%	WHRDHOMhbrfCAAVMAA-664	F25A430001408_HOMhbrfC
+> L02 WHB5EXONPEP00100816
+> PRJ P25Z11900N0021_ARAuunC uun250421阮凤英拟南芥Chip-seq (1/1) 
+> 周荣芳zhourongfang@genomics.cn <mailto:zhourongfang@genomics.cn>、张晨3zhangchen3@genomics.cn <mailto:zhangchen3@genomics.cn>、阮凤英ruanfengying@genomics.cn <mailto:ruanfengying@genomics.cn>
+> IND	混合比	Reads	Bases	PCT	INDEXED_LIBRARY	PROJECT
+> N	80	432.30M	95.11G		CWHPE25080218-N	P25Z11900N0021_ARAuunC
+> L03 WHB5EXONPEP00100810
+> PRJ P25Z11900N0021_ARAofpC 【极致】ofp250423谭陈拟南芥Chip-seq (1/1) 
+> 周荣芳zhourongfang@genomics.cn <mailto:zhourongfang@genomics.cn>、张晨3zhangchen3@genomics.cn <mailto:zhangchen3@genomics.cn>、谭陈tanchen@genomics.cn <mailto:tanchen@genomics.cn>
+> IND	混合比	Reads	Bases	PCT	INDEXED_LIBRARY	PROJECT
+> 209	80	352.00M	77.44G		CWHPE25080217-209	P25Z11900N0021_ARAofpC
+> L04 WHB5EXONPEP00100899
+> PRJ F25A040003616_HUMqbfkR qbfk250626杨旅一五九纯人Re-sequencing (10/25) 
+> 张南娣zhangnandi@genomics.cn <mailto:zhangnandi@genomics.cn>、杨旅yanglv@genomics.cn <mailto:yanglv@genomics.cn>、杨旅yanglv@genomics.cn <mailto:yanglv@genomics.cn>
+> PRJ F25A040006129_CHAveibR veib250729杨旅十个微纯小蜂Re-sequencing (10/25) 
+> 陈芷宁chenzhining@genomics.cn <mailto:chenzhining@genomics.cn>、杨旅yanglv@genomics.cn <mailto:yanglv@genomics.cn>、杨旅yanglv@genomics.cn <mailto:yanglv@genomics.cn>
+> PRJ F24A500000024_ANIilygR ilyg250714邱芷薇20个微量32G过滤4T交付raw和clean动物Re-sequencing (5/25) 
+> 涂碧梦tubimeng@bgitechsolutions.com <mailto:tubimeng@bgitechsolutions.com>、孙华sunhua@genomics.cn <mailto:sunhua@genomics.cn>、邱芷薇zhiwei.Qiu@genomics.cn <mailto:zhiwei.Qiu@genomics.cn>
+> IND	混合比	Reads	Bases	PCT	INDEXED_LIBRARY	PROJECT
+> 651	4.33	7.31M	1.46G	1.53%	B5RDANIilygRAALAA-651	F24A500000024_ANIilygR
+> 652	4.33	5.38M	1.08G	1.13%	B5RDANIilygRAALAA-652	F24A500000024_ANIilygR
+> 653	4.33	3.65M	0.73G	0.76%	B5RDANIilygRAALAA-653	F24A500000024_ANIilygR
+> 654	4.33	4.97M	0.99G	1.04%	B5RDANIilygRAALAA-654	F24A500000024_ANIilygR
+> 655	4.33	1.04M	0.21G	0.22%	B5RDANIilygRAALAA-655	F24A500000024_ANIilygR
+> 661	10	19.18M	3.84G	4.02%	B5RDHUMqbfkRADWAA-661	F25A040003616_HUMqbfkR
+> 662	10	10.72M	2.14G	2.25%	B5RDHUMqbfkRADWAA-662	F25A040003616_HUMqbfkR
+> 663	10	8.71M	1.74G	1.83%	B5RDHUMqbfkRADWAA-663	F25A040003616_HUMqbfkR
+> 664	10	10.46M	2.09G	2.19%	B5RDHUMqbfkRADWAA-664	F25A040003616_HUMqbfkR
+> 665	10	14.88M	2.98G	3.12%	B5RDHUMqbfkRADWAA-665	F25A040003616_HUMqbfkR
+> 666	10	7.22M	1.44G	1.51%	B5RDHUMqbfkRADXAA-666	F25A040003616_HUMqbfkR
+> 667	10	11.96M	2.39G	2.51%	B5RDHUMqbfkRADXAA-667	F25A040003616_HUMqbfkR
+> 668	10	12.86M	2.57G	2.69%	B5RDHUMqbfkRADXAA-668	F25A040003616_HUMqbfkR
+> 669	10	7.11M	1.42G	1.49%	B5RDHUMqbfkRADXAA-669	F25A040003616_HUMqbfkR
+> 670	10	8.48M	1.70G	1.78%	B5RDHUMqbfkRADXAA-670	F25A040003616_HUMqbfkR
+> 679	3.83	36.70M	7.34G	7.69%	B5RDCHAveibRAFZAA-679	F25A040006129_CHAveibR
+> 680	3.83	32.66M	6.53G	6.84%	B5RDCHAveibRAGAAA-680	F25A040006129_CHAveibR
+> 681	3.83	25.19M	5.04G	5.28%	B5RDCHAveibRAGBAA-681	F25A040006129_CHAveibR
+> 682	3.83	36.37M	7.27G	7.62%	B5RDCHAveibRAGCAA-682	F25A040006129_CHAveibR
+> 683	3.83	34.16M	6.83G	7.16%	B5RDCHAveibRAGDAA-683	F25A040006129_CHAveibR
+> 684	3.83	27.03M	5.41G	5.66%	B5RDCHAveibRAGEAA-684	F25A040006129_CHAveibR
+> 685	3.83	38.65M	7.73G	8.10%	B5RDCHAveibRAGFAA-685	F25A040006129_CHAveibR
+> 686	3.83	27.86M	5.57G	5.84%	B5RDCHAveibRAGGAA-686	F25A040006129_CHAveibR
+> 687	3.83	39.96M	7.99G	8.37%	B5RDCHAveibRAGHAA-687	F25A040006129_CHAveibR
+> 688	3.83	32.56M	6.51G	6.82%	B5RDCHAveibRAGIAA-688	F25A040006129_CHAveibR
+￼
+
