@@ -1,4 +1,4 @@
-# LLM application for bioinformatics workflow
+# 1.LLM application for bioinformatics workflow
 
 ## achieved
 ### email_fetch (测序下机邮件信息抓取)
@@ -13,7 +13,7 @@ https://github.com/yemingx/xieyeming1.github.io/tree/master/llm_app/wechatPub
 - agent, 输入narrowpeak；跑 R；得到upset plot, eulerr plot
 
 
-# AI modeling project
+# 2.AI modeling project
 ## TBD
 ### gemma3 SLM fine-tune; google/gemma-3-270m
 ### atac（dnase）to MICC diffusion 文生图
@@ -21,6 +21,6 @@ https://github.com/yemingx/xieyeming1.github.io/tree/master/llm_app/wechatPub
 
 
 
-# AIDD
+# 3.AIDD
 ## TBD
 ### AI药筛; AI设计binder
