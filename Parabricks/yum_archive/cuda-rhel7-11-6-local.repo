@@ -1,0 +1,7 @@
+[cuda-rhel7-11-6-local]
+name=cuda-rhel7-11-6-local
+baseurl=file:///var/cuda-repo-rhel7-11-6-local
+enabled=1
+gpgcheck=1
+gpgkey=file:///var/cuda-repo-rhel7-11-6-local/7fa2af80.pub
+obsoletes=0
