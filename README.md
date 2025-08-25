@@ -16,9 +16,11 @@ https://github.com/yemingx/xieyeming1.github.io/tree/master/llm_app/wechatPub
 ### TBD
 #### Parabricks for bowtie2 bwa 
 #### hic analysis
+#### C++基础→SIMD优化（SSE/AVX指令集）→CUDA并行计算基础; 《算法导论》核心章节→实现经典生信算法（如BLAST优化、序列比对算法复现）; CMake构建系统 → GitHub CI/CD流程 → 打包Python/R工具链。 CUDA原子操作/共享内存 → cuDNN内核定制 → PyTorch算子开发
 
 # 3.AIDD
 ### TBD
+#### learning ML/DL
 #### AI药筛; AI设计binder
 
 # 4.AI modeling project
