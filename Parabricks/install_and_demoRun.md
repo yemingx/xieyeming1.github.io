@@ -1,6 +1,7 @@
-# setup up env in centos7.9 aliyun server with A10 gpu
-## change yum repo
-refernece link: https://blog.csdn.net/2302_77114273/article/details/142769901?spm=wolai.workspace.0.0.92e02944vpD6Lu
+# 在阿里云CentOS 7.9服务器上搭建A10 GPU环境
+
+## 修改yum源
+参考链接: https://blog.csdn.net/2302_77114273/article/details/142769901
 
 mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.bak
 wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo
@@ -28,7 +29,7 @@ yum makecache
 
 
 ## install docker
-refernece link: https://developer.aliyun.com/article/1551022
+参考链接:  https://developer.aliyun.com/article/1551022
 
 sudo yum update -y
 sudo yum install -y yum-utils device-mapper-persistent-data lvm2
@@ -52,7 +53,7 @@ docker -v
 sudo docker run --rm hello-world
 
 ## install nvidia-container-runtime 
-refernece link: https://blog.51cto.com/kusorz/13135792
+参考链接:  https://blog.51cto.com/kusorz/13135792
 
 tar -zxvf nvidia-container-runtime.tar.gz
 cd nvidia-container-runtime
@@ -61,7 +62,7 @@ systemctl restart docker
 whereis nvidia-container-runtime
 
 # run Parabricks demo
-refernece link: https://docs.nvidia.com/clara/parabricks/4.0.1/tutorials/fq2bam_tutorial.html
+参考链接:  https://docs.nvidia.com/clara/parabricks/4.0.1/tutorials/fq2bam_tutorial.html
 
 wget -O parabricks_sample.tar.gz \
 "https://s3.amazonaws.com/parabricks.sample/parabricks_sample.tar.gz"
