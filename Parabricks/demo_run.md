@@ -1,4 +1,4 @@
-https://docs.nvidia.com/clara/parabricks/4.0.1/tutorials/fq2bam_tutorial.html
+refernece link: https://docs.nvidia.com/clara/parabricks/4.0.1/tutorials/fq2bam_tutorial.html
 
 wget -O parabricks_sample.tar.gz \
 "https://s3.amazonaws.com/parabricks.sample/parabricks_sample.tar.gz"

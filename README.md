@@ -13,9 +13,10 @@ https://github.com/yemingx/xieyeming1.github.io/tree/master/llm_app/wechatPub
 - agent, 输入narrowpeak；跑 R；得到upset plot, eulerr plot
 
 # 2.GPU acceleration 
+### Achieved
+#### deploy Parabricks for bwa 
+https://github.com/yemingx/xieyeming1.github.io/blob/master/Parabricks/
 ### TBD
-#### deploy Parabricks for bowtie2 bwa 
-#### hic analysis
 #### C++基础→SIMD优化（SSE/AVX指令集）→CUDA并行计算基础; 《算法导论》核心章节→实现经典生信算法（如BLAST优化、序列比对算法复现）; CMake构建系统 → GitHub CI/CD流程 → 打包Python/R工具链。 CUDA原子操作/共享内存 → cuDNN内核定制 → PyTorch算子开发
 
 # 3.AIDD
